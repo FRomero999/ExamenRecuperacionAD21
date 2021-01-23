@@ -1,0 +1,4 @@
+Este es el contenido de ejemplo.txt
+Se pueden a�adir saltos de linea
+sin
+problema
