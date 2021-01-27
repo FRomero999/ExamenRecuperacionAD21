@@ -26,10 +26,13 @@ public class DBManagerHibernate {
 
     
     public void mostrarListadoCompleto() {
-
-        /* 
+        /* Muestra todos los libros por pantalla con System.out.println() */
+        
+        List result =  /* 
+        
            TO DO 
            ...
+           
         */    
 
     }
