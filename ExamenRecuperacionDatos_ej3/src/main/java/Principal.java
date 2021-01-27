@@ -32,7 +32,7 @@ public class Principal {
         
         String s;
 
-        try( BufferedReader f = /* TO DO ... */ ){
+        try( BufferedReader f = BufferedReader f = new BufferedReader( /* TO DO ... */ ) ){
             
             /* 
                TO DO 
@@ -56,7 +56,7 @@ public class Principal {
         
         crearArchivo(n);
 
-        System.out.println("\n\nContenido del archivo creado");       
+        System.out.println("\n\nContenido del archivo creado:");       
 
         mostrarArchivo(n);
 
